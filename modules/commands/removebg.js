@@ -1,1 +1,1 @@
-
+// Remove background command
